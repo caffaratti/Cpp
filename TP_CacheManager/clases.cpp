@@ -3,7 +3,7 @@
 
 #include "clases.h"
 #include <iostream>
-#include <string>
+#include <string> //PENE
 
 template <class T>
 CacheManager<T>::CacheManager(int cap)
